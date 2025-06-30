@@ -24,14 +24,6 @@
 
 🔗 [Ver en GitHub](https://github.com/gamigraam0/inventario-python)
 
----
-
-### 🌐 Página Web Personal
-> Sitio web responsivo creado con HTML, CSS y JavaScript como presentación de portafolio.
-
-🔗 [Ver en GitHub](https://github.com/gamigraam0/portafolio-web)
-
----
 
 ## 🗂️ Actividades del Instituto
 - 🟢 Storytelling – Innovación Social
