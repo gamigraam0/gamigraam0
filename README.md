@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gami Graam
 
-<!--
-**gamigraam0/gamigraam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de informática con interés en el desarrollo web y bases de datos. Aquí te muestro algunos de mis proyectos:
 
-Here are some ideas to get you started:
+## 🧠 Habilidades
+- Python, JavaScript, HTML, CSS
+- MySQL, MongoDB
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Proyectos Destacados
+- [Sistema de Inventario en Python](https://github.com/usuario/inventario-python)
+- [Página Web Personal](https://github.com/usuario/portafolio-web)
+
+## 📫 Contacto
+- Email: gamigraam@email.com
+- LinkedIn: [linkedin.com/in/gami](https://linkedin.com/in/gami)
