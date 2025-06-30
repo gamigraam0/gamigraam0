@@ -34,11 +34,10 @@
 ---
 
 ## 📬 Contacto
-- ✉️ Email: gamigraam@email.com  
-- 🔗 LinkedIn: [linkedin.com/in/gami](https://linkedin.com/in/gami)  
-- 💬 Telegram: [@gamigraam](https://t.me/gamigraam) *(opcional)*
+- ✉️ Email: g.flores41@alumnos.santotomas.cl
+- 🔗 WhatsApp: +56 9 8789 2400 
 
----
 
-> *“La educación es el arma más poderosa para cambiar el mundo” – Nelson Mandela*  
-> _Estudiante del Instituto Profesional Santo Tomás – Chile 🇨🇱_
+“La educación es el arma más poderosa para cambiar el mundo” – Nelson Mandela*  
+
+Estudiante del Instituto Profesional Santo Tomás.
