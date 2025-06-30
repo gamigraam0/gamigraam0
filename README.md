@@ -1,4 +1,4 @@
-# 👨‍💻 Gami Graam – Estudiante IP Santo Tomás
+# 👨‍💻 Gamalier Flores – Estudiante IP Santo Tomás
 
 🎓 Hola, soy estudiante del Instituto Profesional Santo Tomás, comprometido con el aprendizaje continuo en áreas como el desarrollo web, bases de datos y programación. Este espacio es una como una vitria de mis proyectos académicos y personales. ¡Muchas gracias por visitarlo!
 
